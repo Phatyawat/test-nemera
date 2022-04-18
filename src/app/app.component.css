@@ -1,0 +1,16 @@
+
+
+.shadow-card{
+    box-shadow:   0 8px 8px -4px #888888;
+}
+
+.position-end{
+    position: absolute;
+    left: 10;
+}
+
+img{
+    width: 200px;
+    height:200px;
+}
+
